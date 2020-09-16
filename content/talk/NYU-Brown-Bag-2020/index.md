@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary:
+summary: "In this talk, I argue for a new level of representation to replace scales and feature geometries, which captures a wider empirical range and has conceptual benefits.
 abstract:
 
 # Talk start and end times.
