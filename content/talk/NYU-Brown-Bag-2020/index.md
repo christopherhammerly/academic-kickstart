@@ -11,7 +11,7 @@ address:
   region:
   postcode:
   country:
-summary: "In this talk, I argue for a new level of representation, _primitives_,  which replace scales and feature geometries in capturing person-based prominence effects in agreement. I argue this new theory has both a conceptual and empirical edge over previous accounts."
+summary: "In this talk, I argue for a new level of representation, _primitives_,  which combine into sets and replace prominence scales and feature geometries in capturing person-based prominence effects in agreement. I argue this new theory has both a conceptual and empirical edge over previous accounts."
 abstract:
 
 # Talk start and end times.
