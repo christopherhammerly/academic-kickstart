@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "Deriving feature geometries with a set-based theory of AGREE"
+title: "Deriving person-based prominence effects: A set-based theory of AGREE"
 event: Syntax Brown Bag
 event_url:
 location: New York University (Virtual)
