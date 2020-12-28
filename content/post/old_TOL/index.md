@@ -28,9 +28,9 @@ image:
 projects: []
 ---
 
-Since I have switched over my website, I received a request to make my previous blog posts regarding the open letter to the LSA from Summer 2020. Here is both my original post entitled "Thoughts on the open letter to the LSA", originally posted on July 8th, 2020, followed by a post entitled "A response to a journalist" first posted on July 27th, 2020. 
+Since I have switched over my website, I received a request to make my previous blog posts regarding the open letter to the LSA from Summer 2020. Here is both my initial post entitled "Thoughts on the open letter to the LSA" from  July 8th, 2020, followed by a second post entitled "A response to a journalist" from July 27th, 2020. 
 
-## Thoughts on the open letter to the LSA
+### Thoughts on the open letter to the LSA (first posted July 8th, 2020)
 
 I do not agree with the positions that Dr. Steven Pinker has repeatedly and publicly taken. He has shown an inability to listen, learn, and place facts in their proper context. He has, without a reasonable claim to ignorance, minimized the violence imposed by racist systems. Violence that has transformed with equal malice from slavery, to segregation, to police brutality and mass incarceration; from treaties, to genocide, to reservations, to forced assimilation and termination. This violence has not been recognized or repaired with the same systematicity with which it is has been inflicted.
 
@@ -44,7 +44,7 @@ I think that the open letter was created from a well-intentioned place. I imagin
 
 I hope that we can be better as a field and as a society. That we can get to the point where recognition and reparations for the wide range of historical and present injustices are made. For the moment, I hope to spark thoughtful conversation. To learn by revealing my thoughts and experience, and listening to what is reflected back. I expect that I am misguided in some way that I cannot yet see, but I have tried my best given what I know. I like to think that most of you are doing the same.
 
-## A response to a journalist
+### A response to a journalist (first posted July, 27th, 2020)
 
 I believe that there is a rather general misunderstanding about what it means to restrict free speech. Dr. Pinker currently has complete freedom to express his views and opinions. He has done so on his personal twitter account, in interviews with the media, in the books that he has published, and (I am sure) in the courses that he teaches. What he does not have freedom from is being criticized for his views. Being criticized does not constitute a restriction of free speech.
 
