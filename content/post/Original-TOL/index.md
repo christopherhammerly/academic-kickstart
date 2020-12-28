@@ -44,7 +44,7 @@ I think that the open letter was created from a well-intentioned place. I imagin
 
 I hope that we can be better as a field and as a society. That we can get to the point where recognition and reparations for the wide range of historical and present injustices are made. For the moment, I hope to spark thoughtful conversation. To learn by revealing my thoughts and experience, and listening to what is reflected back. I expect that I am misguided in some way that I cannot yet see, but I have tried my best given what I know. I like to think that most of you are doing the same.
 
-### A response to a journalist (first posted July, 27th, 2020)
+### A response to a journalist (first posted July 27th, 2020)
 
 I believe that there is a rather general misunderstanding about what it means to restrict free speech. Dr. Pinker currently has complete freedom to express his views and opinions. He has done so on his personal twitter account, in interviews with the media, in the books that he has published, and (I am sure) in the courses that he teaches. What he does not have freedom from is being criticized for his views. Being criticized does not constitute a restriction of free speech.
 
