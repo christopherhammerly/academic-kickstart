@@ -13,13 +13,13 @@ publishDate: 2020-04-23T16:02:51-04:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Review"
+publication: "Linguistic Inquiry"
 publication_short: ""
 
-abstract: ""
+abstract: "There is ongoing debate about the role that resumptive pronouns play in the processing of islands in intrusive resumption languages such as English. This squib provides evidence that resumptive pronouns facilitate the comprehension of islands in online processing. The results fall in line with filler-gap processing more generally: when fillers are difficult or impossible to keep active, resumption provides support for forming a dependency. This occurs when dependencies span multiple clauses, when memory resources are otherwise taxed, or, as the present paper shows, when grammatical constraints such as islands prohibit the use of the active filler strategy."
 
 # Summary. An optional shortened abstract.
 summary: ""
