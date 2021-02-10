@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "A verb raising analysis of the Ojibwe VOS/VSO alternation"
+title: "A verb raising analysis of the Ojibwe VOS/VSO alternation: Lessons for feature copying and movement"
 authors: [admin]
 date: 2021-02-08T16:02:51-04:00
 doi: ""
