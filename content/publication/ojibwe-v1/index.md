@@ -3,7 +3,7 @@
 
 title: "A verb raising analysis of the Ojibwe VOS/VSO alternation: Lessons for feature copying and movement"
 authors: [admin]
-date: 2021-02-08T16:02:51-04:00
+date: 2021-02-07T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
