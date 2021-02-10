@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2020-02-09T17:26:47-05:00
 
-authors: [admin]
+authors: [admin, dillon, staub]
 tags: [Algonquian, Ojibwe, psycholinguistics, filler-gap, prominence, phi-features, obviation]
 
 # Is this a featured talk? (true/false)

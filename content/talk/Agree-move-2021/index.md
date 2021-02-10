@@ -3,7 +3,7 @@
 
 title: "Processing relativization in Ojibwe"
 event: "Forum on the Formal Typology of Move and Agree"
-event_url: https://web.sas.upenn.edu/cuny2021/
+event_url: https://blogs.ubc.ca/agree/
 location: UBC & McGill (Virtual)
 address:
   street:
