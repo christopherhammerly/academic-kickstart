@@ -19,7 +19,7 @@ publication_types: ["1"]
 publication: "Proceedings of NELS 51"
 publication_short: ""
 
-abstract: "This brief paper summarizes a new account of how person-aninacy hierachy (PAH) effects and probe relativization should be modeled in theories of AGREE. The core proposal is to further decompose person features into sets of primitives including I, U, and O, and to formulate AGREE with respect to these primitives. I show that theories based in the feature geometry have conceptual and empirical shortcomings: geometries stipulate rather than derive the observed entailments between features and underpredict the possible range of PAH effects."
+abstract: "This brief paper summarizes a new account of how person-animacy hierachy (PAH) effects and probe relativization should be modeled in theories of AGREE. The core proposal is to further decompose person features into sets of primitives including I, U, and O, and to formulate AGREE with respect to these primitives. I show that widely adopted theories based in the feature geometry have conceptual and empirical shortcomings: geometries stipulate rather than derive the observed entailments between features and underpredict the possible range of PAH effects."
 
 # Summary. An optional shortened abstract.
 summary: ""
