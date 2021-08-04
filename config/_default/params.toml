@@ -41,7 +41,7 @@ local_business_type = ""
 
 # Organization name (optional)
 # Enter an organization or project name. Defaults to the site title from `config.toml`.
-org_name = "UMass Amherst"
+org_name = "UBC"
 
 # Description for social sharing and search engines. If undefined, superuser role is used in place.
 description = ""
@@ -81,7 +81,7 @@ edit_page = {repo_url = "https://github.com/gcushen/hugo-academic", content_dir 
 ############################
 
 # Enter contact details (optional). To hide a field, clear it to "".
-email = "hamme381@umn.edu"
+email = "chris.hammerly@ubc.ca"
 phone = ""
 
 # Address
