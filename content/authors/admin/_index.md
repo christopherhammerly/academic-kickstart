@@ -10,11 +10,11 @@ authors:
 superuser: true
 
 # Role/position
-role: Postdoctoral Fellow
+role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Minnesota
+- name: University of Britich Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
@@ -73,4 +73,4 @@ email: ""
 #- Visitors
 ---
 
-I am currently a Postdoctoral Fellow in the Institute of Linguistics at the University of Minnesota. Starting in Fall 2021, I will be an Assistant Professor in the Department of Linguistics at the University of British Columbia. I am a descendent of the White Earth Nation in Minnesota, and much of my work focuses on understanding and documenting my ancestral language Anishinaabemowin (Ojibwe). I use a variety of methods to understand the cognitive representations and processes underpinning human knowledge of syntax (sentence structure) and morphology (word structure), including formal theories, fieldwork, computational models, and experimental tasks. I am particularly interested in the nature of the basic units of morphosyntax (person, number, and noun classification), and how these units participate in long-distance dependencies such as movement and agreement.
+I am an Assistant Professor in the Department of Linguistics at the University of British Columbia. I am a descendent of the White Earth Nation in Minnesota, and much of my work focuses on understanding and documenting my ancestral language Anishinaabemowin (Ojibwe). I use a variety of methods to understand the cognitive representations and processes underpinning human knowledge of syntax (sentence structure) and morphology (word structure), including formal theories, fieldwork, computational models, and experimental tasks. I am particularly interested in the nature of the basic units of morphosyntax (person, number, and noun classification), and how these units participate in long-distance dependencies such as movement and agreement.
