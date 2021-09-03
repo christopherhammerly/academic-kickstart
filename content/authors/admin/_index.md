@@ -14,7 +14,7 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: University of Britich Columbia
+- name: University of British Columbia
   url: ""
 
 # Short bio (displayed in user profile at end of posts)
