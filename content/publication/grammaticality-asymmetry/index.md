@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["morphology","syntax","formal theory","phi-features", "agreement]
+tags: ["morphology","syntax","formal theory","phi-features", "agreement"]
 categories: []
 featured: false
 
