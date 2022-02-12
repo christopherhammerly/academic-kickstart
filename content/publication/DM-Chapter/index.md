@@ -3,7 +3,7 @@
 
 title: "Distributed Morphology and Psycholinguistics"
 authors: [admin,pfau]
-date: 2021-02-10T10:03:05-05:00
+date: "In Press"
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
