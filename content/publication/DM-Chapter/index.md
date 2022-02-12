@@ -1,22 +1,22 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "The grammaticality asymmetry in agreement attraction reflects response bias: Experimental and modeling evidence"
-authors: [admin,staub,dillon]
-date: 2019-05-23T16:02:51-04:00
+title: "Distributed Morphology and Psycholinguistics"
+authors: [admin,pfau]
+date: 2020-09-01T10:03:05-05:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-23T16:02:51-04:00
+publishDate: 2022-02-10T10:03:05-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["6"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Cognitive Psychology"
+publication: "The Cambridge Handbook of Distributed Morphology"
 publication_short: ""
 
 abstract: ""
@@ -24,7 +24,7 @@ abstract: ""
 # Summary. An optional shortened abstract.
 summary: ""
 
-tags: ["morphology","syntax","formal theory","phi-features", "agreement]
+tags: ["morphology", "syntax","psycholinguistics"]
 categories: []
 featured: false
 
@@ -38,9 +38,9 @@ featured: false
 
 url_pdf:
 url_code:
-url_dataset: https://osf.io/cvrbz/files/
+url_dataset:
 url_poster:
-url_project: https://osf.io/cvrbz/
+url_project:
 url_slides:
 url_source:
 url_video:
