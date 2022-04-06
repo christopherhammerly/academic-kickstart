@@ -4,7 +4,7 @@
 title: "Prominence guides incremental interpretation: Lessons from obviation in Ojibwe"
 event: "3rd International Conference Prominence in Language"
 event_url: https://sfb1252.uni-koeln.de/en/icpl-iii-2022
-location: Cologne enter of Language Sciences
+location: Cologne Center of Language Sciences
 address:
   street:
   city:
