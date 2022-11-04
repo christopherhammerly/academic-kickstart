@@ -16,14 +16,14 @@ abstract:
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: 2021-10-14T17:26:47-05:00
-date_end: 2021-10-17T17:26:47-05:00
+date: 2022-10-20T17:26:47-05:00
+date_end: 2022-10-23T17:26:47-05:00
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: 2021-10-01T17:26:47-05:00
+publishDate: 2022-10-01T17:26:47-05:00
 
-authors: [admin, fougere, Giancarlo Sierra]
+authors: [admin, fougere, Giancarlo Sierra, Scott Parkhill, Harrison Porteous, Chad Quinn]
 tags: [Algonquian, Ojibwe, text-to-speech, revitalization, language technology, deep learning, artificial intelligence, indigenous technology]
 
 # Is this a featured talk? (true/false)
