@@ -23,7 +23,7 @@ all_day: true
 # Schedule page publish date (NOT talk date).
 publishDate: 2021-10-01T17:26:47-05:00
 
-authors: [admin, fougere]
+authors: [admin, fougere, Giancarlo Sierra]
 tags: [Algonquian, Ojibwe, text-to-speech, revitalization, language technology, deep learning, artificial intelligence, indigenous technology]
 
 # Is this a featured talk? (true/false)
