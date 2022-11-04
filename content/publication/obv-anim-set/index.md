@@ -3,23 +3,30 @@
 
 title: "A set-based semantics for obviation and animacy"
 authors: [admin]
-date: 2021-03-25T16:02:51-04:00
+date: 2022-11-01T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2020-04-23T16:02:51-04:00
+publishDate: 2022-11-01T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Submitted"
 publication_short: ""
 
-abstract: "This paper provides an analysis of the semantics of obviation and animacy through a case study of Ojibwe (Central Algonquian). I develop a lattice-based characterization of possible person, obviation, and animacy categories, showing that the addition of two binary features, [+/-Proximate] and [+/-Animate], captures the six-way distinction of Ojibwe. These features denote first-order predicates formed from subsets of an ontology of person primitives, with composition and interpretation defined by (i) the functional sequence of the nominal spine, (ii) the denotation of feature values, and (iii) the theory of contrastive interpretations. I show that alternative accounts based in lattice actions or feature geometries cannot capture the partition of Ojibwe, and offer extensions of the proposed system to noun classification in Zapotec, Romance, and Bantu."
+abstract: "This paper provides a general analysis of the semantics of person, broadly construed, through a case study of Ojibwe (Central Algonquian). Ojibwe shows person-like
+distinctions based on whether an entity is living or non-living (i.e. animacy), and,
+within living things, whether a being is prominent or backgrounded in the discourse
+(i.e. obviation). The central principle of the account is contrast: The activation and
+interpretation of a feature is driven by the requirement that it makes a cut to derive
+the proper categories within a given inventory. With this principle, I show that a small
+set of bivalent features denoting first-oder predicates can capture Ojibwe as well as a
+wider typology of person, animacy, obviation, and noun classification distinctions."
 
 # Summary. An optional shortened abstract.
 summary: ""
