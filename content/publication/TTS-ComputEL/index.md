@@ -3,11 +3,11 @@
 
 title: "A text-to-speech synthesis system for Border Lakes Ojibwe"
 authors: [admin, fougere, Giancarlo Sierra, Scott Parkhill, Harrison Porteous, Chad Quinn]
-date: 2023-02-01T16:02:51-04:00
+date: 2023-02-10T16:02:51-04:00
 doi: ""
 
 # Schedule page publish date (NOT publication's date).
-publishDate: 2023-02-01T16:02:51-04:00
+publishDate: 2023-02-10T16:02:51-04:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
